@@ -143,3 +143,10 @@ def clone(url):
 
 if __name__ == "__main__":
     argsFunction()
+
+
+
+# As of: 1/15/22
+# TODO - starting code repo
+# TODO - pulling repo
+# TODO - merging softly and smoothly
